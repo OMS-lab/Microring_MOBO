@@ -1,5 +1,5 @@
 # Accelerated Design of Microring Lasers with Multi-Objective Bayesian Optimization
-This repository contains a Jupyter Notebook used for the optimization of growth and geometry parameters for bottom-up grown multi-quantum well (MQW) InP/InAsP microring lasers. By utilizing Bayesian optimization and Design of Experiments techniques, the goal is to streamline the design process and improve device performance.
+This repository contains data and Jupyter Notebook used for the optimization of growth and geometry parameters for bottom-up grown multi-quantum well (MQW) InP/InAsP microring lasers. By utilizing Bayesian optimization and Design of Experiments techniques, the goal is to streamline the design process and improve device performance.
 
 ## Overview:
 Multi-quantum well (MQW) microring lasers require precise tuning of various growth and structural parameters to achieve optimal optical properties, including minimized lasing thresholds, specific communication wavelengths, and high yield. This repository employs BoTorch with a qNParEGO acquisition function to conduct multi-objective Bayesian optimization, specifically targeting these objectives.
