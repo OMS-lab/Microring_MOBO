@@ -12,10 +12,10 @@ Multi-quantum well (MQW) microring lasers require precise tuning of various grow
 - Python 3.8+
 - Jupyter Notebook
 - BoTorch for Bayesian optimization
-- torch for computational backend
-- scikit-learn for PCA and dataset handling
-- pyDoE for Latin Hypercube Sampling (LHS)
-- matplotlib and Seaborn for plotting and visualizations
+- Torch for computational backend
+- Scikit-learn for PCA and dataset handling
+- PyDoE for Latin Hypercube Sampling (LHS)
+- Matplotlib and Seaborn for plotting and visualizations
 
 ## Usage
 - Installation: Clone this repository and install the required libraries.
